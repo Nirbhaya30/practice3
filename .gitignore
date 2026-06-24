@@ -1,0 +1,8 @@
+.env
+secrets.txt
+node_modules/
+__pycache__/
+.vscode/
+dist/
+build/
+.DS_Store
