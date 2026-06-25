@@ -3,6 +3,6 @@ on: [push]
 jobs:
   hello:
     runs-on: ubuntu-latest
-      steps:
-        - run: echo "hello world"
-        - run: pwd
+    steps:
+       - run: echo "hello world"
+       - run: pwd
